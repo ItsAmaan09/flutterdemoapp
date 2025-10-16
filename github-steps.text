@@ -1,0 +1,7 @@
+* Steps to connect and pushed into github :
+1. git init
+2. git branch -M branchname
+3. git remote add origin https://github.com/username/reponame.git
+4. git add .
+5. git commit -m "first commit"
+6. git push -u origin development
